@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Call composite action from external repo
-        uses: Pawankumarmeena425/CompositeAction@test
+        uses: Pawankumarmeena425/CompositeAction@main
         with:
           input1: "This is the first input"
           input2: "This is the second input"
