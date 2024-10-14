@@ -17,4 +17,4 @@ jobs:
         uses: Pawankumarmeena425/CompositeAction@main
         with:
           input1: "This is the first input"
-          input2: "This is the second input"
+          input2: "This is the second input" 
